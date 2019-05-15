@@ -1,4 +1,4 @@
-# FractionalFastFourierFinance
+# FractionalFastFourier
 Compute the Fractional Fast Fourier transform using the Circular Matrix apporach
 
 # Explanantion
